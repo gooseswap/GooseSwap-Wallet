@@ -1,4 +1,14 @@
 {
+
+  "license": {
+    "license": "MIT",
+    "type": "MIT",
+    "url": "https://opensource.org/licenses/MIT"
+  },
+      "_from": "github:gooseswap/GooseSwap-Wallet",
+  "bundleDependencies": false,
+  "version": "2.1.0",
+  "repository": "https://github.com/gooseswap/GooseSwap-Wallet",
   "name": "@binance-chain/bsc-use-wallet",
   "version": "0.8.1",
   "author": "Aragon Association <legal@aragon.org>",
